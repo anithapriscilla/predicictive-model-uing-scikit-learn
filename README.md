@@ -12,4 +12,4 @@ This program is to create a predictive model using scikit learn,,,, so in this p
 
 OUTPUT : 
 
-![Image](https://github.com/user-attachments/assets/fbf75b17-2798-4f77-bf4c-0f1dbd563e25)
+![Image](https://github.com/user-attachments/assets/ab5643b1-fa66-43f8-909a-7ac1dd7213e8)
